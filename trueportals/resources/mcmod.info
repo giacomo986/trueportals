@@ -1,0 +1,16 @@
+[
+{
+  "modid": "truePortals",
+  "name": "True Portals",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Giacomo"],
+  "credits": "To forge and me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
